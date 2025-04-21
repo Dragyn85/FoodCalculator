@@ -1,0 +1,10 @@
+<engine:UXML xmlns:engine="UnityEngine.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scenes/UI/Testy.uss?fileID=7433441132597879392&amp;guid=306df9ba756c9ee418d768f9553cdfa9&amp;type=3#Testy" />
+    <engine:VisualElement style="flex-grow: 1; -unity-background-image-tint-color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);">
+        <engine:VisualElement name="CameraZone" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Scenes/UI/CameraTexture.renderTexture?fileID=8400000&amp;guid=ef86ee3d2eda7ae459074b5c9cd088ec&amp;type=2#CameraTexture&quot;);" />
+        <engine:VisualElement style="flex-grow: 1;">
+            <engine:VisualElement style="flex-grow: 1; -unity-background-image-tint-color: rgb(255, 255, 255); background-color: rgb(217, 217, 217);" />
+            <engine:TextField label="Search food" placeholder-text="search term" max-length="30" class="TextFields" style="font-size: 20px; color: rgb(148, 39, 39); -unity-background-image-tint-color: rgb(173, 55, 55); border-top-width: 3px; border-right-width: 3px; border-bottom-width: 3px; border-left-width: 3px; border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0);" />
+        </engine:VisualElement>
+    </engine:VisualElement>
+</engine:UXML>
